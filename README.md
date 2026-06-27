@@ -8,7 +8,7 @@
 
 ## 📮 关于 & 建站服务
 
-我是 **Gavin**，专注 **外贸独立站 / 询盘站 / 工厂官网** 建设，主力技术栈 **Next.js / WordPress**。给制造业工厂做过不少英文官网与产品目录站，清楚工厂主最关心的是**询盘**而不是花哨——所以我更看重信任要素（工厂实拍、认证、案例）、产品参数结构化、表单与多语言，以及能不能被 Google 搜到。
+我是 **Gavin**，**模酷科技(ModalCube)** 主理人，专注 **外贸独立站 / 询盘站 / 工厂官网** 建设，主力技术栈 **Next.js / WordPress**。给制造业工厂做过不少英文官网与产品目录站，清楚工厂主最关心的是**询盘**而不是花哨——所以我更看重信任要素（工厂实拍、认证、案例）、产品参数结构化、表单与多语言，以及能不能被 Google 搜到。
 
 **我提供的服务：**
 
@@ -18,7 +18,7 @@
 - Google SEO 基础搭建与询盘转化优化（表单、在线客服、落地页）
 - 老站改版、速度优化（Core Web Vitals）、域名与企业邮箱配置
 
-> 📧 邮箱：xqi圈live.com　💬 微信：gav1nq　🌐 作品集/案例：https://gavinsolo.com
+> 📧 邮箱：xqi@live.com　💬 微信：gav1nq　🌐 作品集/案例：https://modalcube.com
 
 下面是我整理的精选资源，长期更新，欢迎 Star ⭐ / PR。
 
@@ -56,7 +56,7 @@
 - [Shopify](https://www.shopify.com/) — 上线最快的托管电商平台，Markets 原生支持多语言多货币，B2B 功能（分级定价、批发目录）成熟，适合想快速起步的中小工厂。
 - [BigCommerce](https://www.bigcommerce.com/) — 面向中大型 B2B 的托管平台，原生支持客户分层、合同定价、ERP 集成，适合产品规格复杂、SKU 多的制造企业。
 - [OroCommerce](https://oroinc.com/b2b-ecommerce/) — 专为 B2B 打造的开源/企业级平台，内置 CPQ/RFQ、买家门户、ERP 对接，适合经销商/大客户体系复杂的工厂。
-- 🌟 [Gavin的工厂站案例](https://gavinsolo.com) — 我用 Next.js / WordPress 给工厂做的英文官网与产品目录站，主打询盘转化（选型不确定可以直接找我聊，不收咨询费）。
+- 🌟 [Gavin的工厂站案例](https://modalcube.com) — 我用 Next.js / WordPress 给工厂做的英文官网与产品目录站，主打询盘转化（选型不确定可以直接找我聊，不收咨询费）。
 
 ## 🎨 工厂官网模板与设计灵感
 
@@ -105,7 +105,7 @@
 - [Manufacturing Website Design Guide](https://www.trajectorywebdesign.com/blog/manufacturing-website-design-guide/) — 制造业官网设计完整指南，讲清三类买家（技术/采购/高管）的需求与工厂实拍、产线展示、技术参数、资源下载的布局逻辑。
 - [Unbounce B2B 落地页范例](https://unbounce.com/landing-page-examples/best-b2b-landing-page-examples/) — 高转化 B2B 落地页拆解（28 个案例），单一目标 + 清晰 CTA + 极简表单的做法可直接借鉴。
 - [Industrial Website Design Examples](https://lovable.dev/guides/industrial-website-design-examples-that-convert) — 工业站设计 12 例，强调真实操作视频优于库存图、首屏放可信度证据，并给出工业站转化基准（约 2.2%）。
-- 🌟 [我的工厂站信任要素做法](https://gavinsolo.com) — 我在客户站里实际落地的信任区块（认证墙、产线视频、参数表、案例数据），欢迎参考结构再自己改。
+- 🌟 [我的工厂站信任要素做法](https://modalcube.com) — 我在客户站里实际落地的信任区块（认证墙、产线视频、参数表、案例数据），欢迎参考结构再自己改。
 
 ## 🔍 Google SEO 与多语言收录
 
@@ -165,7 +165,7 @@
 - [制造业网站设计范例集（Huemor）](https://huemor.rocks/blog/best-manufacturing-website-designs/) — 精选优秀制造业官网拆解，讲清留白、模块化、技术叙事怎么平衡创意与转化。
 - [制造业网站设计范例（Azuro）](https://azurodigital.com/manufacturing-website-examples/) — 10 个工厂官网案例分析，产品视频、信任信号、清晰 CTA 与移动端优化的实战做法。
 - [企业出海避坑自测清单（知乎）](https://zhuanlan.zhihu.com/p/24953926516) — 出海前的 10 项自测，覆盖市场选择、合规、本地化、人才与生态等常见坑，工厂出海前先过一遍。
-- 🌟 [我写的外贸建站避坑笔记](https://gavinsolo.com) — 我在给工厂做站过程中总结的常见错误（域名/邮箱配置、图片过大、表单没人收、英文机翻），诚实分享，欢迎拍砖。
+- 🌟 [我写的外贸建站避坑笔记](https://modalcube.com) — 我在给工厂做站过程中总结的常见错误（域名/邮箱配置、图片过大、表单没人收、英文机翻），诚实分享，欢迎拍砖。
 
 ---
 
@@ -238,7 +238,16 @@ SKU 和规格特别多时，建议用 **PIM（产品信息管理，如 Akeneo）
 
 如果你是工厂老板，想做一个**真正能带来询盘**的英文官网或外贸独立站——而不是一个好看但没人问的展示页——欢迎找我聊。我用 **Next.js / WordPress** 做工厂站，从产品目录、信任要素、多语言到 Google SEO 与部署一站搞定。
 
-> 📧 邮箱：xqi圈live.com　💬 微信：gav1nq　🌐 作品集/案例：https://gavinsolo.com
+> 📧 邮箱：xqi@live.com　💬 微信：gav1nq　🌐 作品集/案例：https://modalcube.com
+
+**📲 想要更系统的工厂出海 / 外贸建站干货?** 扫码关注,新内容持续更新 👇
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><img src="assets/qr-fuwuhao.png" width="170" alt="模酷科技微信"><br><b>模酷科技 · 微信</b><br><sub>建站咨询 · 案例 · 服务对接</sub></td>
+    <td align="center" width="50%"><img src="assets/qr-gongzhonghao.png" width="170" alt="模酷科技服务号"><br><b>模酷科技 · 服务号</b><br><sub>外贸建站 · Google SEO · 出海干货</sub></td>
+  </tr>
+</table>
 
 如果这份清单帮到你，别忘了 Star ⭐ 支持一下，也欢迎分享给同样在做出海的工厂朋友。
 
