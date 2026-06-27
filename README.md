@@ -20,7 +20,7 @@
 
 > 📧 邮箱：xqi@live.com　💬 微信：gav1nq　🌐 作品集/案例：https://modalcube.com
 
-下面是我整理的精选资源，长期更新，欢迎 Star ⭐ / PR。
+下面是我整理的精选资源，长期更新，欢迎 PR。
 
 ---
 
@@ -56,7 +56,7 @@
 - [Shopify](https://www.shopify.com/) — 上线最快的托管电商平台，Markets 原生支持多语言多货币，B2B 功能（分级定价、批发目录）成熟，适合想快速起步的中小工厂。
 - [BigCommerce](https://www.bigcommerce.com/) — 面向中大型 B2B 的托管平台，原生支持客户分层、合同定价、ERP 集成，适合产品规格复杂、SKU 多的制造企业。
 - [OroCommerce](https://oroinc.com/b2b-ecommerce/) — 专为 B2B 打造的开源/企业级平台，内置 CPQ/RFQ、买家门户、ERP 对接，适合经销商/大客户体系复杂的工厂。
-- 🌟 [Gavin的工厂站案例](https://modalcube.com) — 我用 Next.js / WordPress 给工厂做的英文官网与产品目录站，主打询盘转化（选型不确定可以直接找我聊，不收咨询费）。
+- 🌟 [Gavin的工厂站案例](https://modalcube.com) — 我用 Next.js / WordPress 给工厂做的英文官网与产品目录站，主打询盘转化，选型不确定可以直接找我聊。
 
 ## 🎨 工厂官网模板与设计灵感
 
@@ -95,7 +95,7 @@
 - [Tidio](https://www.tidio.com/) — 在线客服 + AI 聊天机器人（Lyro），支持多语言，可与 HubSpot/WooCommerce 集成，适合做销售转化与自动答疑。
 - [Crisp](https://crisp.chat/en/) — 颜值高的在线客服，多渠道收件箱（WhatsApp / Instagram / 邮件）整合强，团队协作友好，自带轻量 CRM。
 - [HubSpot CRM](https://www.hubspot.com/products/crm) — 免费起步的 CRM，内置表单、销售管道、自动跟进，把官网表单/聊天来的询盘统一管理，适合搭建询盘漏斗。
-- [询盘云 LeadsCloud](https://www.leadscloud.com/) — 国产外贸专属 Marketing CRM，打通网站、邮件、WhatsApp、社媒等触点，适合工厂做全触点询盘管理与私域运营。
+- [询盘云 LeadsCloud](https://www.leadscloud.com/) — 国产外贸专属 Marketing CRM，打通网站、邮件、WhatsApp、社媒等触点，适合工厂统一管理多渠道询盘与私域运营。
 
 ## ✅ 工厂官网信任要素与转化设计
 
@@ -105,7 +105,6 @@
 - [Manufacturing Website Design Guide](https://www.trajectorywebdesign.com/blog/manufacturing-website-design-guide/) — 制造业官网设计完整指南，讲清三类买家（技术/采购/高管）的需求与工厂实拍、产线展示、技术参数、资源下载的布局逻辑。
 - [Unbounce B2B 落地页范例](https://unbounce.com/landing-page-examples/best-b2b-landing-page-examples/) — 高转化 B2B 落地页拆解（28 个案例），单一目标 + 清晰 CTA + 极简表单的做法可直接借鉴。
 - [Industrial Website Design Examples](https://lovable.dev/guides/industrial-website-design-examples-that-convert) — 工业站设计 12 例，强调真实操作视频优于库存图、首屏放可信度证据，并给出工业站转化基准（约 2.2%）。
-- 🌟 [我的工厂站信任要素做法](https://modalcube.com) — 我在客户站里实际落地的信任区块（认证墙、产线视频、参数表、案例数据），欢迎参考结构再自己改。
 
 ## 🔍 Google SEO 与多语言收录
 
@@ -130,9 +129,9 @@
 
 ## 💼 领英获客与展会数字化
 
-工厂站是承接，主动获客靠 LinkedIn 与展会，两者配合形成闭环。
+工厂站是承接，主动获客靠 LinkedIn 与展会，两头都要跑。
 
-- [LinkedIn](https://www.linkedin.com/) — 全球最大职业社交网络，制造业买家/采购决策者聚集地，主页优化 + 内容 + 互动是 B2B 出海主动获客的主战场。
+- [LinkedIn](https://www.linkedin.com/) — 全球最大职业社交网络，制造业买家/采购决策者聚集地，主页优化 + 内容 + 互动是 B2B 出海主动触达买家的核心渠道。
 - [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/sales-navigator) — 领英官方销售工具，按职位/行业/地区精准筛选采购经理并发 InMail，适合工厂定向开发海外客户。
 - [vFairs](https://www.vfairs.com/) — 虚拟展会/线上活动平台，支持 3D 展位、实时聊天、线索追踪，成本远低于实体展，适合工厂做线上产品发布与获客。
 - [6Connex](https://www.6connex.com/) — 企业级虚拟活动平台，支持大型线上展会与混合活动，适合行业协会或大厂组织线上展。
@@ -165,7 +164,6 @@
 - [制造业网站设计范例集（Huemor）](https://huemor.rocks/blog/best-manufacturing-website-designs/) — 精选优秀制造业官网拆解，讲清留白、模块化、技术叙事怎么平衡创意与转化。
 - [制造业网站设计范例（Azuro）](https://azurodigital.com/manufacturing-website-examples/) — 10 个工厂官网案例分析，产品视频、信任信号、清晰 CTA 与移动端优化的实战做法。
 - [企业出海避坑自测清单（知乎）](https://zhuanlan.zhihu.com/p/24953926516) — 出海前的 10 项自测，覆盖市场选择、合规、本地化、人才与生态等常见坑，工厂出海前先过一遍。
-- 🌟 [我写的外贸建站避坑笔记](https://modalcube.com) — 我在给工厂做站过程中总结的常见错误（域名/邮箱配置、图片过大、表单没人收、英文机翻），诚实分享，欢迎拍砖。
 
 ---
 
@@ -189,7 +187,7 @@
 
 ### 工厂网站和阿里巴巴国际站，该做哪个？
 
-**两个都要，定位不同。** 阿里国际站、Made-in-China 借平台流量、来询快，但你受平台规则约束、客户数据不完全归你；独立站（工厂官网）是你的“数字总部”，品牌、SEO 流量与客户关系都自有，长期更值钱。理想做法是平台引流 + 独立站承接沉淀，两条腿走路。
+**两个都要，定位不同。** 阿里国际站、Made-in-China 借平台流量、来询快，但你受平台规则约束、客户数据不完全归你；独立站（工厂官网）是你自有的阵地，品牌、SEO 流量与客户关系都自有，长期更值钱。理想做法是平台引流 + 独立站承接沉淀，两条腿走路。
 
 ### 工厂官网做 Google SEO 多久能见效？
 
@@ -236,11 +234,11 @@ SKU 和规格特别多时，建议用 **PIM（产品信息管理，如 Akeneo）
 
 ### 需要定制外贸站 / 询盘站 / 工厂站？
 
-如果你是工厂老板，想做一个**真正能带来询盘**的英文官网或外贸独立站——而不是一个好看但没人问的展示页——欢迎找我聊。我用 **Next.js / WordPress** 做工厂站，从产品目录、信任要素、多语言到 Google SEO 与部署一站搞定。
+需要建工厂英文官网或外贸独立站，欢迎找我聊。我用 **Next.js / WordPress** 做工厂站，覆盖产品目录、多语言、询盘表单到 Google SEO 与部署。
 
 > 📧 邮箱：xqi@live.com　💬 微信：gav1nq　🌐 作品集/案例：https://modalcube.com
 
-**📲 想要更系统的工厂出海 / 外贸建站干货?** 扫码关注,新内容持续更新 👇
+📲 扫码关注，持续更新工厂出海 / 外贸建站内容 👇
 
 <table align="center">
   <tr>
@@ -249,5 +247,5 @@ SKU 和规格特别多时，建议用 **PIM（产品信息管理，如 Akeneo）
   </tr>
 </table>
 
-如果这份清单帮到你，别忘了 Star ⭐ 支持一下，也欢迎分享给同样在做出海的工厂朋友。
+觉得有用的话欢迎 Star ⭐，也欢迎转给在做出海的工厂朋友。
 
