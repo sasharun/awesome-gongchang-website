@@ -1,6 +1,6 @@
 # 工厂官网与制造业出海建站资源大全 | Awesome Manufacturer & Factory Website
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) [![Stars](https://img.shields.io/github/stars/sasharun/awesome-gongchang-website?style=social)](https://github.com/sasharun/awesome-gongchang-website)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) [![Stars](https://img.shields.io/github/stars/sasharun/awesome-gongchang-website?style=social)](https://github.com/sasharun/awesome-gongchang-website) ![Last update](https://img.shields.io/badge/last%20update-2026--07-blue.svg)
 
 > 一份面向**制造业工厂老板**的精选清单，聚焦**工厂网站建设、工厂官网、制造业出海、B2B网站建设、制造业网站**。从工厂官网的信任要素与询盘转化，到 B2B 建站方案与模板、多语言本地化、产品目录与询盘系统、展会数字化与领英（LinkedIn）获客、真实案例与避坑、靠谱服务商，这里把工厂站（外贸站/独立站）从 0 到 1 需要的工具、平台、教程、社区与服务商一次性整理齐全，**长期更新**。无论你要做工厂英文官网、外贸独立站还是询盘转化型 B2B 网站，都能在这里找到现成可用的资源。
 
@@ -20,7 +20,28 @@
 
 > 📧 邮箱：xqi@live.com　💬 微信：gav1nq　🌐 作品集/案例：https://modalcube.com
 
+开源配套：
+- [nextjs-export-starter](https://github.com/sasharun/nextjs-export-starter) — Next.js 外贸/工厂询盘站模板
+- [dulizhan-inquiry-checklist](https://github.com/sasharun/dulizhan-inquiry-checklist) — 有流量没询盘自查清单
+
+
 下面是我整理的精选资源，长期更新，欢迎 PR。
+
+---
+
+## ⚡ 工厂站最小闭环（先做这些）
+
+工厂站不是「好看官网」，是 **被搜到 → 看得懂 → 信得过 → 发得出询盘**：
+
+| 步骤 | 做什么 | 自检 |
+|------|--------|------|
+| 1 结构 | 首页 / 产品目录 / 关于工厂 / 认证 / 联系 | 英文为主，中文可选 |
+| 2 信任 | 厂房实拍、设备、认证、出口国家、MOQ/交期 | 忌空话 stock 图 |
+| 3 产品 | 规格表、图纸/PDF、按系列分类 | 参数 > 形容词 |
+| 4 询盘 | 全站 CTA + 表单到邮箱 + WhatsApp | 亲自提交测一遍 |
+| 5 SEO | sitemap、速度、Google 收录 | 见 [waimao-seo](https://github.com/sasharun/awesome-waimao-seo) |
+
+模板直开：[nextjs-export-starter](https://github.com/sasharun/nextjs-export-starter) · 转化：[inquiry checklist](https://github.com/sasharun/dulizhan-inquiry-checklist)
 
 ---
 
@@ -39,6 +60,7 @@
 - [📚 学习社区与外贸内容](#-学习社区与外贸内容)
 - [⚠️ 案例参考与避坑](#️-案例参考与避坑)
 - [❓ 常见问题（FAQ）](#-常见问题faq)
+- [🧰 补充资源包](#-补充资源包)
 - [🔗 相关清单](#-相关清单)
 - [🤝 贡献](#-贡献)
 - [📈 Star History](#-star-history)
@@ -199,7 +221,31 @@ SKU 和规格特别多时，建议用 **PIM（产品信息管理，如 Akeneo）
 
 ---
 
+## 🧰 补充资源包
+
+### 官方 / 稳定资源
+
+- [Google SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) — 工厂官网内容结构、标题、链接和收录的官方基础参考。
+- [Google 多语言 / hreflang 文档](https://developers.google.com/search/docs/specialty/international/localized-versions) — 英文站扩展多语言时必须核对。
+- [Cloudflare Turnstile Docs](https://developers.cloudflare.com/turnstile/) — 询盘表单、图纸上传、代理商申请表防垃圾提交。
+- [W3C WCAG Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/) — 按钮、图片、表单和移动端可读性验收参考。
+
+### 可复制模板
+
+| 模板 | 直接复制的字段 |
+|---|---|
+| 工厂官网素材清单 | 工厂照、产线视频、认证证书、设备清单、客户案例、质检流程、包装发货图 |
+| 产品参数表 | 型号、规格、材质、认证、应用行业、MOQ、交期、包装、可定制项、图纸下载 |
+| 询盘链路验收 | 表单字段、附件上传、邮件通知、CRM 同步、自动回复、垃圾拦截、跟进负责人 |
+| 信任要素检查 | 公司主体、地址地图、证书可查、客户案例、团队照片、售后政策、隐私政策 |
+
+---
+
 ## 🔗 相关清单
+
+- [独立站询盘转化清单](https://github.com/sasharun/dulizhan-inquiry-checklist)
+
+- [Next.js 外贸询盘 Starter](https://github.com/sasharun/nextjs-export-starter)
 
 - [外贸建站资源大全](https://github.com/sasharun/awesome-waimao-jianzhan)
 - [出海建站与品牌出海资源大全](https://github.com/sasharun/awesome-chuhai-jianzhan)
@@ -248,4 +294,3 @@ SKU 和规格特别多时，建议用 **PIM（产品信息管理，如 Akeneo）
 </table>
 
 觉得有用的话欢迎 Star ⭐，也欢迎转给在做出海的工厂朋友。
-
