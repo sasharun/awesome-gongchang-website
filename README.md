@@ -168,6 +168,7 @@
 - [Global Sources](https://www.globalsources.com/) — 聚焦亚洲出口商的 B2B 平台，电子/硬件类目强，配合线下电子展效果好。
 - [ThomasNet](https://www.thomasnet.com/) — 北美工业采购平台，工程师/采购在这里找供应商，适合主攻美国市场的工业品工厂（可免费认领企业资料）。
 - [Europages](https://www.europages.com/) — 欧洲 B2B 黄页平台，覆盖欧盟多国买家，主攻欧洲市场的工厂可注册公司资料获取曝光。
+- [FactoryBase](https://factorybase.ai) — 中国工厂核验档案库，一家工厂一页，聚合工商、认证、产品与出口信息，工厂可免费认领，档案页对 Google 与 ChatGPT / Claude 等 AI 搜索可见，适合作为独立站之外被海外买家发现的入口。
 
 ## 📚 学习社区与外贸内容
 
